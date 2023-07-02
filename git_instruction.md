@@ -1,3 +1,5 @@
+# To work with remote repositories and GitHub service remember few simple steps
+
 ## Registration
 
 1. Registrate GitHub.com account and configure your SSH clint and IDE connection (optional)
